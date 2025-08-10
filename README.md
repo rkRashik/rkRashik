@@ -2,7 +2,7 @@
   <img src="https://github.com/rkRashik/rkRashik/raw/main/images/banner.gif" alt="Coding Banner" width="100%" style="border-radius: 8px;">
 </p>
 
-<h1 align="center">👋 Hello, I'm <a href="https://github.com/rkRashik" target="_blank">Md. Redwan ul Islam Rashik</a> <img src="https://github.com/rkRashik/rkRashik/raw/main/images/coder.gif" width="30" height="30"></h1>
+<h1 align="center">👋 Hello, I'm <a href="https://github.com/rkRashik" target="_blank">Md. Redwan ul Islam Rashik</a> </h1>
 
 <h3 align="center">Python Developer | AI Enthusiast | Backend Specialist</h3>
 
@@ -75,15 +75,19 @@ I'm currently diving deeper into **Software Quality Assurance (SQA)** methodolog
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkRashik&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkRashik&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkRashik&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=radical" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkRashik&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkRashik&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkRashik&hide=TeX&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rkRashik&color=brightgreen" alt="Profile View">
 </p>
 
 ---
@@ -110,4 +114,13 @@ I'm currently diving deeper into **Software Quality Assurance (SQA)** methodolog
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+</p>
+
+---
+
+## MY FRIEND 
+has a message for you...
+
+<p align="center">
+  <img src="https://github.com/rkRashik/rkRashik/raw/main/images/message.png" alt="Message Image">
 </p>

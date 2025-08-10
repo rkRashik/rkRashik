@@ -51,31 +51,27 @@
 
 ## 🌟 Featured Projects
 
-### 🔬 Lung Cancer Detection
+### 🔬 **[Lung Cancer Detection](https://github.com/rkRashik/Lung-Cancer-Classification)**
 **Description:** CNN model achieving 99.8% accuracy in classifying lung cancer types  
 **Technologies:** Python, TensorFlow, OpenCV  
-[View Project](https://github.com/rkRashik/lung-cancer-detection)
 
-### 💼 HR Management System  
+### 💼 **[HR Management System](https://github.com/rkRashik/Job-Application-Portal-Django)**  
 **Description:** Full-featured job portal with applicant tracking system  
 **Technologies:** Django, MySQL, Bootstrap  
-[View Project](https://github.com/rkRashik/Job-Application-Portal-Django)
 
-### 🚨 Smart Security System  
+### 🚨 **[Smart Security System](https://github.com/rkRashik/Motion-Detection-Email-Alert)**  
 **Description:** Real-time motion detection with email alerts  
 **Technologies:** Python, OpenCV, SMTP  
-[View Project](https://github.com/rkRashik/motion-detection-email)
 
-### ☀️ Weather Dashboard  
+### ☀️ **[Weather Dashboard](https://github.com/rkRashik/Weather_forecast_data)**  
 **Description:** Interactive weather data visualization platform  
 **Technologies:** Streamlit, Plotly, OpenWeatherAPI  
-[View Project](https://github.com/rkRashik/weather-forecast-app)
 
 ---
 
 ## 🌱 Currently Exploring
 
-I'm currently diving deeper into Software Quality Assurance (SQA) methodologies and building **NextGen Arena**, a gaming tournament platform using Django.
+I'm currently diving deeper into **Software Quality Assurance (SQA)** methodologies and building **NextGen Arena**, a gaming tournament platform using **Django**.
 
 ---
 

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/rkRashik/your-repo-name/raw/main/images/banner.gif" alt="Coding Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://github.com/rkRashik/rkRashik/raw/main/images/banner.gif" alt="Coding Banner" width="100%" style="border-radius: 8px;">
 </p>
 
-<h1 align="center">👋 Hello, I'm <a href="https://github.com/rkRashik" target="_blank">Md. Redwan ul Islam Rashik</a> <img src="https://user-images.githubusercontent.com/84847579/140811526-fb054143-399c-4c0b-980b-0a3b28e2c09c.gif" width="30" height="30"></h1>
+<h1 align="center">👋 Hello, I'm <a href="https://github.com/rkRashik" target="_blank">Md. Redwan ul Islam Rashik</a> <img src="https://github.com/rkRashik/rkRashik/raw/main/images/coder.gif" width="30" height="30"></h1>
 
 <h3 align="center">Python Developer | AI Enthusiast | Backend Specialist</h3>
 
